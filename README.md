@@ -1,0 +1,2 @@
+# mopix
+Agentic employment platform
